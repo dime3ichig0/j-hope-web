@@ -1,0 +1,63 @@
+body {
+	margin: 0px;
+	padding: 0px;
+}
+
+*{
+	font-family: 'Comfortaa', cursive;
+}
+
+
+/*primer menu*/
+
+header{
+	background-color: #000000;
+	padding: 3%;
+}
+
+
+.logotipo-jhope{
+	height: 60px;
+}
+
+
+a{
+	text-decoration: none; 	/*Menu*/
+	color: #FFFFFF;
+	padding: 1%;
+}
+
+
+.imagen-1 { /*Imagen grande*/
+	object-fit: cover;
+	height: 15em;
+	width: 100%;
+	margin-top: -1px;
+
+}
+
+button{
+	background-color: #555151;
+	color: #FFFFFF;
+	border-radius: 5px;
+}
+
+/*Seccion de Imagenes*/
+
+.jhope-1{
+	object-fit: cover;
+	height: 18.75em;
+	width: 12.5em;
+}
+
+
+footer{
+	background-color: #000000;
+	padding-top:  
+}
+
+.the-end p{
+	color: #FFFFFF;
+	margin-left: 553px;
+}
+
